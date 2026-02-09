@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\HasnSet\bin\Debug\net8.0\HasnSet.exe
+C:\Users\USUARIO\Desktop\HasnSet\bin\Debug\net8.0\HasnSet.deps.json
+C:\Users\USUARIO\Desktop\HasnSet\bin\Debug\net8.0\HasnSet.runtimeconfig.json
+C:\Users\USUARIO\Desktop\HasnSet\bin\Debug\net8.0\HasnSet.dll
+C:\Users\USUARIO\Desktop\HasnSet\bin\Debug\net8.0\HasnSet.pdb
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\HasnSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\HasnSet.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\HasnSet.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\HasnSet.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\HasnSet.dll
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\refint\HasnSet.dll
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\HasnSet.pdb
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\HasnSet.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\HasnSet\obj\Debug\net8.0\ref\HasnSet.dll
